@@ -1,0 +1,6 @@
+@khatibAlamiTest_HostAddress = http://localhost:5245
+
+GET {{khatibAlamiTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
